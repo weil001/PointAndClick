@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Import Utility", "SimpleCSV\Data Import Utility.csproj", "{2B99B18C-3488-4BB2-AD3F-07803FF9D61C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Import Utility", "DataImportUtility\Data Import Utility.csproj", "{2B99B18C-3488-4BB2-AD3F-07803FF9D61C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
