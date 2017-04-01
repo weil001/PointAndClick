@@ -35,3 +35,13 @@ X:\School\Spring '17\CIS 490\Project\Test Code\SimpleCSV\SimpleCSV\obj\Debug\Sim
 \\Mac\Dropbox\School\Spring '17\CIS 490\Project\Test Code\SimpleCSV\SimpleCSV\obj\Debug\SimpleCSV.mapping.resources
 \\Mac\Dropbox\School\Spring '17\CIS 490\Project\Test Code\SimpleCSV\SimpleCSV\obj\Debug\SimpleCSV.Properties.Resources.resources
 \\Mac\Dropbox\School\Spring '17\CIS 490\Project\Test Code\SimpleCSV\SimpleCSV\obj\Debug\SimpleCSV.csproj.GenerateResource.Cache
+X:\School\Spring '17\CIS 490\Project\Test Code\SimpleCSV\PointAndClick\SimpleCSV\bin\Debug\SimpleCSV.exe.config
+X:\School\Spring '17\CIS 490\Project\Test Code\SimpleCSV\PointAndClick\SimpleCSV\obj\Debug\SimpleCSV.exe
+X:\School\Spring '17\CIS 490\Project\Test Code\SimpleCSV\PointAndClick\SimpleCSV\obj\Debug\SimpleCSV.pdb
+X:\School\Spring '17\CIS 490\Project\Test Code\SimpleCSV\PointAndClick\SimpleCSV\bin\Debug\SimpleCSV.exe
+X:\School\Spring '17\CIS 490\Project\Test Code\SimpleCSV\PointAndClick\SimpleCSV\bin\Debug\SimpleCSV.pdb
+X:\School\Spring '17\CIS 490\Project\Test Code\SimpleCSV\PointAndClick\SimpleCSV\obj\Debug\SimpleCSV.csprojResolveAssemblyReference.cache
+X:\School\Spring '17\CIS 490\Project\Test Code\SimpleCSV\PointAndClick\SimpleCSV\obj\Debug\SimpleCSV.Form1.resources
+X:\School\Spring '17\CIS 490\Project\Test Code\SimpleCSV\PointAndClick\SimpleCSV\obj\Debug\SimpleCSV.mapping.resources
+X:\School\Spring '17\CIS 490\Project\Test Code\SimpleCSV\PointAndClick\SimpleCSV\obj\Debug\SimpleCSV.Properties.Resources.resources
+X:\School\Spring '17\CIS 490\Project\Test Code\SimpleCSV\PointAndClick\SimpleCSV\obj\Debug\SimpleCSV.csproj.GenerateResource.Cache
